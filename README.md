@@ -53,8 +53,8 @@ The **MovieLens 100k dataset** is widely used for benchmarking recommender syste
 5. **Similarity:** Cosine similarity between user profile and Movie 95’s genre vector.
 
 ### Result
-- **User 200 vs Movie 95:** Cosine similarity = -0.2652  
-- **User 15 vs Movie 95:** Cosine similarity = -0.3259  
+- **User 200 vs Movie 95:** Cosine similarity = -0.2652，distance=1.2652  
+- **User 15 vs Movie 95:** Cosine similarity = -0.3259, distance=1.3259  
 - **Recommendation:** Movie 95 would be recommended to User 200.
 
 ## Conclusion
