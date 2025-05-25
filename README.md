@@ -19,7 +19,7 @@ The **MovieLens 100k dataset** is widely used for benchmarking recommender syste
 - **u.data:** Contains core ratings information (`user_id`, `item_id`, `rating`, `timestamp`).  
 - **u.item:** Contains movie-related data, including 19 binary genre columns.
 
-## Problem 1: Collaborative Filtering - Cosine Similarity
+## Problem 1
 
 ### Objective
 - Load the MovieLens 100k data.  
@@ -38,7 +38,7 @@ The **MovieLens 100k dataset** is widely used for benchmarking recommender syste
 ### Result
 - **Predicted rating for User 1 on Item 508:** 4.200
 
-## Problem 2: Content-Based Filtering - User Profiles
+## Problem 2
 
 ### Objective
 - Build user profiles from centered ratings and movie genres.  
