@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the era of information overload, recommender systems are essential for filtering vast amounts of data and offering personalized suggestions to users. This report explores two fundamental approaches in building recommender systems: Collaborative Filtering and Content-Based Filtering. Using the widely-acknowledged **MovieLens 100k dataset**, this report implements and evaluates the two techniques through the following problems:
+In the era of information overload, recommender systems are essential for filtering vast amounts of data and offering personalized suggestions to users. Using the widely-acknowledged **MovieLens 100k dataset**, this report implements and evaluates the two techniques through the following problems:
 
 1. **Problem 1:** Identification of the 10 most similar users to User 1 based on cosine similarity, followed by prediction of User 1's rating for Item 508.
 2. **Problem 2:** Construction of user profiles based on centered data, calculation of cosine similarity, and determining which user would be recommended Movie 95.
